@@ -1,2 +1,2 @@
 # web-development-project
-git is demo for git &amp; github
+git is demo for git &amp; github.
